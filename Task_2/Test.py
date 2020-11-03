@@ -1,5 +1,4 @@
 import unittest
-from bs4 import BeautifulSoup
 from Task_2.ChangeLanguage import ChangeLang
 
 class TestChangeLeng(unittest.TestCase):
